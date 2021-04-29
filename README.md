@@ -4,5 +4,9 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of Jailciele_CD is to ...
+
+
+-Desenvolvimento do projeto sincronizado no Github
+-Organização de dados na biblioteca dplyr
+-Visualizazção de dados no ggplot2 e Echarts4r
 
